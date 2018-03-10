@@ -28,3 +28,6 @@ I had to do this the other day for the first time in ages on a new machine I had
 This should work on any version of Photoshop above 5.5, including Photoshop 6, 7, CS, CS2, CS3 and CS4.
 
 Hope this helps!
+
+
+https://woorkup.com/install-fonts-without-administrator-access/
