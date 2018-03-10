@@ -1,1 +1,1 @@
-![Preview of Rentukka](https://octodex.github.com/images/yaktocat.png)
+![Preview of Rentukka](https://github.com/fridaysyckness/Adobe-Font/blob/master/fonts/Rentukka/preview/Rentukka-free-font.jpg)
